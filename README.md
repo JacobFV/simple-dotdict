@@ -1,14 +1,10 @@
 # Simple Dotdict
 
-<!-- [![PyPI version](https://badge.fury.io/py/simple-dotdict.svg)](https://badge.fury.io/py/simple-dotdict)
-[![Build Status](https://travis-ci.org/alexandrosstergiou/simple-dotdict.svg?branch=master)](https://travis-ci.org/alexandrosstergiou/simple-dotdict)
-[![codecov](https://codecov.io/gh/alexandrosstergiou/simple-dotdict/branch/master/graph/badge.svg)](https://codecov.io/gh/alexandrosstergi) -->
-
 The `dotdict` class is a dictionary that allows access to its elements using dot notation. It inherits from the built-in `dict` class in Python.
 
 ## Installation
 
-To install `simple-dotdict`, you can use pip:
+To install [`simple-dotdict`](https://pypi.org/project/dotdict/), you can use pip:
 
 ```bash
 pip install simple-dotdict
