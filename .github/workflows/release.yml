@@ -37,6 +37,10 @@ jobs:
       with:
         user: __token__
         password: ${{ secrets.PYPI_API_TOKEN }}
+        
+  codecov:
+    runs-on: ubuntu-latest
+    steps:
     - name: Upload coverage reports to Codecov
       uses: codecov/codecov-action@v3
       env:
