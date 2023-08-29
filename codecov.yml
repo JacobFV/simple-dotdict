@@ -1,0 +1,6 @@
+profiling:
+  critical_files_paths:
+    - simple_dotdict/__init__.py
+
+comment:
+  show_critical_paths: true
